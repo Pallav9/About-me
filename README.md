@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pallav
-- 👀 I’m interested in Coding, Web Development, Software Develpement.
+- 👀 I’m interested in Coding, Web Development, Software Development.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me through - pallavkjain@gmail.com
